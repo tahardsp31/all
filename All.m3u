@@ -416,3 +416,98 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149600&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149601&extension=ts
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports NBA UHD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149602&extension=ts
+
+
+
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| ON DEMAND ACTION 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149599&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| ON DEMAND ARABIC 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149743&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| ON DEMAND COMEDY 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149685&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| ON DEMAND DRAMA 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149625&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| ON DEMAND KIDS 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=149626&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| FOX Movies ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=254336&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| BBC EARTH 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14552&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN|  Bein ANIMAL PLANET ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=77012&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Drama ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14553&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN DRAMA ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2711&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| BEIN GOURMET ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2530&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Movies 1 ᵁᴴᴰ Premiere 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=18&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Star Films ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14555&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Movies 2 ᵁᴴᴰ Action 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=21&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Movies 3 ᵁᴴᴰ Drama 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=19&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Movies 4 ᵁᴴᴰ Family 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=20&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",beIN Series 1 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1250&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| beIN Series 2 ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14558&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN|BEIN STAR WORLD HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=120308&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN|BEIN STAR MOVIES HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=623499&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN|BEIN TCM 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=623498&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| CBS REALITY 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117450&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| cbs reallity ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14568&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Discovery Family ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=137498&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Fatafeat ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14551&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| FATAFEAT ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=73783&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Food Network ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1644&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Star Life ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=59460&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|BEIN| Star Action ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=31713&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| HGTV ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14549&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| HGTV ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=8258&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| National Geograohic ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=15065&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| National Geographic ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=4553&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| National Geographic Wild ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1649&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| National Geographic Wild ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=15064&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Travel Chanel ᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2557&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",|beIN| Travel CHannel ᵁᴴᴰ 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14550&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD SBC HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163391&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV Anime HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163392&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV Cinema HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163393&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV Drama HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163394&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV EWC Legends HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163395&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV Family HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163396&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD STC TV HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163397&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD Ten 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163398&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN ENTERTAINMENT",HD TLC HD 
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1163399&extension=ts
