@@ -3,39 +3,39 @@
 # Telegram: https://t.me/H_mc1
 # © 2025 APPS TV | M3U - All Rights Reserved
 
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1003&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1_Backup_1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2207&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1_Backup_2 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2210&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1004&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2_Backup_1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2208&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2_Backup_2 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=85112&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1005&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3_Backup_1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=2209&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3_Backup_2 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=85111&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD4 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1006&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD5 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1007&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD6 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1008&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD7 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1009&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD8 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1010&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD9 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=1011&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_Xtra_SD1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=3028&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_Xtra_SD2 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=91155&extension=ts
-#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_English_SD1 | APPS TV | M3U
-http://s1.u-on.to:2095/c//play/live.php?mac=00:1A:79:AA:02:29&stream=3029&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1003&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1_Backup_1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=2207&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD1_Backup_2
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=2210&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1004&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2_Backup_1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=2208&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD2_Backup_2
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=85112&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1005&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3_Backup_1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=2209&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD3_Backup_2
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=85111&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD4
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1006&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD5
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1007&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD6
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1008&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD7
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1009&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD8
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1010&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_SD9
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=1011&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_Xtra_SD1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=3028&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_Xtra_SD2
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=91155&extension=ts
+#EXTINF:-1 group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_English_SD1
+http://s1.u-on.to:2095/play/live.php?mac=00:1A:79:AA:02:29&stream=3029&extension=ts
