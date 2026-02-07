@@ -97,3 +97,173 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=245825&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269968&extension=ts
 #EXTINF:-1 group-title="|AR| ✪ BEIN SPORT SD",beIN Sports NBA SD
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=57044&extension=ts
+
+
+
+
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1515459&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports News HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=28939&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Global HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=28938&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Global HD (B)
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1813397&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN. ULTRA UHD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=312095&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN REPLAY FINAL UCL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=235750&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN REPLAY FINAL FA CUP
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=235755&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534831&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122212&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108161&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121789&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 1 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272468&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534830&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122213&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108162&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121790&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 2 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272467&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=4&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534829&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122214&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 HD BEEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108164&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 3 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121791&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272465&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=5&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534828&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122215&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108165&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121792&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 4 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272464&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=6&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534827&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122216&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108166&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 5 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121793&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 5 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272463&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=7&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=534826&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122217&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108167&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 6 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121794&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 6 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272462&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=8&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578834&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122218&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108168&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 7 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121795&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 7 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272461&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=9&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578835&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122219&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108169&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 8 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121796&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 8 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272460&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 ᴴᴰ
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=578836&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 Nexus
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1122220&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 HD BEE TV
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108170&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 9 APPEL
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1121797&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 9 TOD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=272459&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117124&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 1 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117125&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117129&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 2 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=117130&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 3 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XSTRA 3 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=108163&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 4 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572902&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 5 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572906&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 6 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572910&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 7 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572914&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 8 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572918&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports XTRA 9 HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1572922&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 EN HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=2531&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sport English HD 1
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269964&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 EN HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=10369&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sport English HD 2
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=1269967&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 UHD FR
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=14&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 1 HD FR
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11016&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 UHD FR
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=15&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 2 HD FR
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=11017&extension=ts
+#EXTINF:-1 group-title="|AR| ✪ BEIN SPORT HD",beIN Sports Nba HD
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=3845&extension=ts
+
+
