@@ -24,20 +24,22 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=150449&exten
 
 
 
-#EXTINF:-1 group-title="kisase",الــســيــرة الــنـبـــويـة 
+#EXTINF:-1 group-title="|AR| ✪ kisase",الــســيــرة الــنـبـــويـة 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131297&extension=ts
-#EXTINF:-1 group-title="kisase", آيات القرآن |kisase
+#EXTINF:-1 group-title="|AR| ✪ kisase", آيات القرآن |kisase
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131281&extension=ts
-#EXTINF:-1 group-title="kisase",الانبياء في القرآن
+#EXTINF:-1 group-title="|AR| ✪ kisase",الانبياء في القرآن
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131289&extension=ts
-#EXTINF:-1 group-title="kisase", الحيوان في القرآن
+#EXTINF:-1 group-title="|AR| ✪ kisase", الحيوان في القرآن
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131283&extension=ts
-#EXTINF:-1 group-title="kisase", العجائب في القرآن
+#EXTINF:-1 group-title="|AR| ✪ kisase", العجائب في القرآن
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131287&extension=ts
-#EXTINF:-1 group-title="kisase", النساء في القرآن 
+#EXTINF:-1 group-title="|AR| ✪ kisase", النساء في القرآن 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131282&extension=ts
-#EXTINF:-1 group-title="kisase",قـصـص الصـحـابــة 
+#EXTINF:-1 group-title="|AR| ✪ kisase",قـصـص الصـحـابــة 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131869&extension=ts
+
+
 
 ##############################  NEWS  ########################################################
 
