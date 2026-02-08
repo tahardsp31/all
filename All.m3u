@@ -19,96 +19,110 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=122892&exten
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=150449&extension=ts
 
 
+##############################  kisase  ########################################################
+
+#EXTINF:-1,|الــســيــرة الــنـبـــويـة |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131297&extension=ts
+#EXTINF:-1,|kisase آيات القرآن |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131281&extension=ts
+#EXTINF:-1,|kisase الانبياء في القرآن |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131289&extension=ts
+#EXTINF:-1,|kisase الحيوان في القرآن |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131283&extension=ts
+#EXTINF:-1,|kisase العجائب في القرآن |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131287&extension=ts
+#EXTINF:-1,|kisase النساء في القرآن |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131282&extension=ts
+#EXTINF:-1,|قـصـص الصـحـابــة  |kisase
+http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=131869&extension=ts
 
 ##############################  NEWS  ########################################################
 
-
-
-#EXTINF:-1,|NEWS| AL Jazeera ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ",|NEWS| AL Jazeera ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1443&extension=ts
-#EXTINF:-1,|NEWS| AlJazeera ˢᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AlJazeera ˢᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1444&extension=ts
-#EXTINF:-1,|NEWS| ALJAZEERA ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", ALJAZEERA ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=50232&extension=ts
-#EXTINF:-1,|NEWS| AlJazeera Mubasher
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AlJazeera Mubasher
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1445&extension=ts
-#EXTINF:-1,|NEWS| ALJAZEERA MUBASHER ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", ALJAZEERA MUBASHER ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=50233&extension=ts
-#EXTINF:-1,|NEWS| AlJazeera Mubasher 2
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AlJazeera Mubasher 2
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=90018&extension=ts
-#EXTINF:-1,|NEWS| ALJAZEERA MUBASHER 2 ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", ALJAZEERA MUBASHER 2 ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=50234&extension=ts
-#EXTINF:-1,|NEWS| AlJazeera En
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AlJazeera En
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1446&extension=ts
-#EXTINF:-1,|NEWS| Al Arabiya
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al Arabiya
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=160&extension=ts
-#EXTINF:-1,|NEWS| AL ARABIA ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL ARABIA ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=50237&extension=ts
-#EXTINF:-1,|NEWS| AL ARABY BUSINESS
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL ARABY BUSINESS
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=605276&extension=ts
-#EXTINF:-1,|NEWS| DW Arabia
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", DW Arabia
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1379&extension=ts
-#EXTINF:-1,|NEWS| France24 News AR
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", France24 News AR
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1364&extension=ts
-#EXTINF:-1,|NEWS| TRT ARABIC
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", TRT ARABIC
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=162&extension=ts
-#EXTINF:-1,|NEWS| TRT ARABI ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", TRT ARABI ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=50203&extension=ts
-#EXTINF:-1,|NEWS| Sky News Arabiya ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Sky News Arabiya ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=161&extension=ts
-#EXTINF:-1,|NEWS| SKY ARABIC ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", SKY ARABIC ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=91130&extension=ts
-#EXTINF:-1,|NEWS| RT Arab
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", RT Arab
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1302&extension=ts
-#EXTINF:-1,|NEWS| BBC Arabic
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", BBC Arabic
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=173&extension=ts
-#EXTINF:-1,|NEWS| Al hurra
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al hurra
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1450&extension=ts
-#EXTINF:-1,|NEWS| AL ARABY TV ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL ARABY TV ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=28193&extension=ts
-#EXTINF:-1,|NEWS| AL HIWAR ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL HIWAR ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1451&extension=ts
-#EXTINF:-1,|NEWS| AL MAYADEEN TV
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL MAYADEEN TV
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1433&extension=ts
-#EXTINF:-1,|NEWS| CNBC ARABIYA
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", CNBC ARABIYA
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1396&extension=ts
-#EXTINF:-1,|NEWS| EL SHARQ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", EL SHARQ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=69839&extension=ts
-#EXTINF:-1,|NEWS| Mehwer
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Mehwer
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=28189&extension=ts
-#EXTINF:-1,|NEWS| Mekameleen.TV
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Mekameleen.TV
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1333&extension=ts
-#EXTINF:-1,|NEWS| Al Ekhbaria
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al Ekhbaria
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1462&extension=ts
-#EXTINF:-1,|NEWS| Al Hadath
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al Hadath
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1455&extension=ts
-#EXTINF:-1,|NEWS| CGTN-Arabic
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", CGTN-Arabic
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=49494&extension=ts
-#EXTINF:-1,|NEWS|BBC World News ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ",BBC World News ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=89078&extension=ts
-#EXTINF:-1,|NEWS|NBN NEWS
+#EXTINF:-1 group-title="|AR| ✪  NEWS ",NBN NEWS
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=49557&extension=ts
-#EXTINF:-1,|NEWS| Sharqiya News
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Sharqiya News
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1285&extension=ts
-#EXTINF:-1,|NEWS| AL ARABIYA HADATH ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL ARABIYA HADATH ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=91138&extension=ts
-#EXTINF:-1,|NEWS| ASHARQ NEWS ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", ASHARQ NEWS ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=170286&extension=ts
-#EXTINF:-1,|NEWS| INEWS_TV_ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", INEWS_TV_ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=49493&extension=ts
-#EXTINF:-1,|NEWS|  I News ᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ",  I News ᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=4188&extension=ts
-#EXTINF:-1,|NEWS| AL MUSTAKILA
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL MUSTAKILA
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1430&extension=ts
-#EXTINF:-1,|NEWS| AL QAHERA NEWS
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", AL QAHERA NEWS
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=510587&extension=ts
-#EXTINF:-1,|NEWS| Al Alam
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al Alam
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=1468&extension=ts
-#EXTINF:-1,|NEWS| Syria News
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Syria News
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=170461&extension=ts
-#EXTINF:-1,|NEWS| i24 News Arabic
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", i24 News Arabic
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=153441&extension=ts
-#EXTINF:-1,|NEWS| Al Ghad ᵁᴴᴰ
+#EXTINF:-1 group-title="|AR| ✪  NEWS ", Al Ghad ᵁᴴᴰ
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:a9:a0:f7&stream=468718&extension=ts
 
 
@@ -201,7 +215,7 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=50216&extens
 
 
 
-##############################  |AR| ✪ MOROCCO ########################################################
+##############################  AR| ✪ ALGERIA  ########################################################
 
 
 #EXTINF:-1 group-title="|AR| ✪ MOROCCO",|MA| 2M NATIONAL HD 
@@ -4981,8 +4995,6 @@ http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=12890&extens
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=88765&extension=ts
 #EXTINF:-1 group-title="|FR| ✪ TNT SD",|FR| NRJ HITS TV ˢᴰ 
 http://fuego-iptv.net:80/play/live.php?mac=00:1A:79:42:9E:91&stream=12810&extension=ts
-
-
 
 
 
